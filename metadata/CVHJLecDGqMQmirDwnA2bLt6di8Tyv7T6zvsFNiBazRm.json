@@ -1,0 +1,45 @@
+{
+    "name": "BAD TRIP MASK - 938",
+    "symbol": "BTM",
+    "description": "We have created a mask that will bring a bad trip to Solana. Masks hide the secrets of ancient rituals that shared good and evil",
+    "seller_fee_basis_points": 750,
+    "image": "https://nftstorage.link/ipfs/bafybeifxrn4chy2w7kfol6hjlygenh3l554u6nviglrohhkmzaycl7ps3i/3180.jpeg",
+    "external_url": "",
+    "collection": {
+        "name": "BAD TRIP MASKS",
+        "family": "LaunchMyNFT"
+    },
+    "attributes": [
+        {
+            "trait_type": "Trip",
+            "value": "White"
+        },
+        {
+            "trait_type": "Essence",
+            "value": "3"
+        },
+        {
+            "trait_type": "Mask",
+            "value": "Daemon"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Barbas"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://nftstorage.link/ipfs/bafybeifxrn4chy2w7kfol6hjlygenh3l554u6nviglrohhkmzaycl7ps3i/3180.jpeg",
+                "type": "image/jpeg"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "5K5MD9fHd3TgzwzHL6v5uUB48LXfrbg5RjwcNqToYRGd",
+                "share": 100
+            }
+        ]
+    }
+}
